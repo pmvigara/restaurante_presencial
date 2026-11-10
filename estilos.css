@@ -1,0 +1,14 @@
+/* Hoja de estilos compartida por todas las páginas */
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Arial, sans-serif; color: #292929; background: #fff9f3; }
+.cabecera { background: #8b2424; color: white; text-align: center; padding: 28px 16px 0; }
+.cabecera h1 { margin: 0; font-size: 2rem; }
+.cabecera p { margin: 8px 0 24px; }
+nav { display: flex; justify-content: center; flex-wrap: wrap; gap: 4px; background: #651919; padding: 12px; }
+nav a { color: white; text-decoration: none; padding: 10px 14px; border-radius: 5px; }
+nav a:hover, nav a:focus-visible { background: #a63d3d; }
+main { width: min(900px, 92%); margin: 35px auto; min-height: 45vh; background: white; padding: 30px; border-radius: 10px; box-shadow: 0 2px 12px #00000012; }
+h2 { color: #8b2424; }
+.pie { background: #282828; color: white; text-align: center; padding: 22px 15px; }
+.pie p { margin: 6px; }
+@media (max-width: 600px) { main { padding: 20px; } nav a { padding: 8px; } }
