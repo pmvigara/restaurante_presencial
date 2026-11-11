@@ -314,7 +314,7 @@ include 'estructura/cabeza.php';
     <!-- Banner Hero Principal Responsive -->
     <div class="hero-banner" role="region" aria-label="Bienvenida a La Tagliatella">
         <span class="badge-hero">🍝 Auténtica Trattoria Italiana</span>
-        <h2>Bienvenidos a La Tagliatella</h2>
+        <h2>Bienvenidos a La Piazza</h2>
         <p>El auténtico sabor del norte de Italia. Platos generosos, pastas artesanales y recetas tradicionales elaboradas para saborear y compartir alrededor de una buena mesa.</p>
         <div class="hero-buttons">
             <a href="carta.php" class="btn btn-secondary">Ver Nuestra Carta</a>
@@ -363,9 +363,9 @@ include 'estructura/cabeza.php';
         </article>
     </div>
 
-    <!-- Valores y Experiencia Tagliatella -->
+    <!-- Valores y Experiencia Piazza -->
     <div class="section-header">
-        <h3 class="section-titulo">La Experiencia Tagliatella</h3>
+        <h3 class="section-titulo">La Experiencia Piazza</h3>
         <p class="section-subtitulo">Mucho más que una comida, un viaje a las regiones de Emilia Romagna, Liguria y Piemonte</p>
     </div>
 
